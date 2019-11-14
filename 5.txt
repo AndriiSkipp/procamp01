@@ -4,4 +4,4 @@ added new change on tail1
 
 temporary changed for stashing!
 nothing to commit
-now i have smth to save
+now i not have smth to save
